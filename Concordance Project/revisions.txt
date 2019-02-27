@@ -1,0 +1,26 @@
+commit 90468bae24fcd7f1ce01d72c590b14ece7a2c1d6
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 18 22:36:17 2018 -0400
+
+    Program works completely fine, the only issue(along with many people) is
+    that try seems to think there is a difference in my program's ouput and
+    theirs when there is in fact no difference.
+
+commit 347b2098cdb6a8bca5230c3d267eaeb75be31205
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 18 18:31:06 2018 -0400
+
+    Insert_word logic, besides the references, are working. And
+    traverse_tree, besides the references, seem to be working.
+
+commit 69d4aa28814289f84e896e1f20c613a862a5fef3
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Wed Oct 17 02:51:02 2018 -0400
+
+    Setting up the readinf of each word into structs. Almost done.
+
+commit e0f2800ba20b8c6248424600170d4036333c519d
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Mon Oct 15 23:33:15 2018 -0400
+
+    Initial setup and layout of the concordance.c file is complete.
