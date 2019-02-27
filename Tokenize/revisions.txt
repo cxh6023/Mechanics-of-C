@@ -1,0 +1,93 @@
+commit 41a0df0756505121515b557f2ebdf26ae11b02a9
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Fri Oct 12 23:05:08 2018 -0400
+
+    Added structs.h comments
+
+commit a1ed19af60485bddf0ac81919fde34839d3cb3c0
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Fri Oct 12 23:01:17 2018 -0400
+
+    Program is completely done.
+
+commit 1d4d0ef5b6d3b649b43e36f58e0de6b312a01f51
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Fri Oct 12 11:32:16 2018 -0400
+
+    Output seems to work just fine. The program is complete. All that is
+    left is to clean up the code and make the program not just one large
+    main method.
+
+commit f8eb7201099ce24ecc888e1df5dad985b322b35f
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Fri Oct 12 09:52:14 2018 -0400
+
+    The output seems to be correct unless a path becomes the end of the file
+    and is of size 1. Besides that I believe that output is correct.
+
+commit cff45faf157a492ae0d8a9369d26a69931bd26dc
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 11 23:16:43 2018 -0400
+
+    The post matrix section is somehwat working. The first abc is recognized
+    as a token and prints it out succesfully. But the rest for some reason
+    do not scan correctly.
+
+commit 79a52dbdf95c2f105ad78f461309e3601c6886dd
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 11 02:22:04 2018 -0400
+
+    NOW tokenize.c works. Turns out there was a small error which prevented
+    the last node to be read in always be converted to 99d.
+
+commit 4e1d6b753b7f90af762f10e71822c52099e0fe9e
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 11 00:37:41 2018 -0400
+
+    The program finishes printing the created matrix and prints it out
+    correctly.
+
+commit 74e4defa8600573d750ac54d08a95b094b3a1d60
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Thu Oct 11 00:12:57 2018 -0400
+
+    The matrix is built and finished, and able to be printed. The only
+    problem is that the formatting is slightly off when printing due to a
+    lack of accounting for the difference in amount of digits.
+
+commit d3fff7cf2b752184615bf4db0bab039c6df0608b
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Wed Oct 10 16:48:20 2018 -0400
+
+    Tokenize.c succesfully stores all the nodes as structs and has them all
+    unorganized in 1d array.
+
+commit eeb6efb772db29194718e4a3f5d76616014e825d
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Wed Oct 10 10:39:12 2018 -0400
+
+    Succesfully have all the information needed to be read and I have them
+    stored, next is to organize the variables into a 2d array of structs.
+
+commit a9dc124918fbd9abe1558d1262ae1ce83bd46db8
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 9 23:05:53 2018 -0400
+
+    Working on building the matrix. The program is able to get the integer
+    value of the number before the slash for each theoretical object being
+    made in the received 2d array.
+
+commit 4d7dc4215ae55c836bb04e1b60e77945a09d9bb7
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 9 00:26:15 2018 -0400
+
+    Finished being able to confidently receive the first three line in the
+    input file. Now on to building the matrix. The struct necessary to do
+    this is stored in the structs.h file.
+
+commit 0abdcd66cfcb076a19acc98b019e17e40d27b606
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Mon Oct 8 23:00:45 2018 -0400
+
+    Added Revisions.txt and tokenize.txt and in tokenize.c there are
+    variables that are able to store states, start, and asset values.

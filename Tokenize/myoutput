@@ -1,0 +1,819 @@
+
+Current Section: states
+
+Current Section: 10
+
+
+Current Section: start
+
+Current Section: 0
+
+
+Current Section: accept
+
+Current Section: 9
+
+
+Current Section: 0
+
+We are analyzing a potential struct: 0
+
+It's a ROW INDICATOR
+
+Current Section: 0/0d
+
+We are analyzing a potential struct: 0/0d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 0
+
+Save: 
+
+Current Section: 1/0d
+
+We are analyzing a potential struct: 1/0d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 0
+
+Save: 
+
+Current Section: 2/1s
+
+We are analyzing a potential struct: 2/1s
+
+It's a STRUCT.
+
+BeforeSlash: 2
+
+AfterSlash: 1
+
+Save: 
+
+Current Section: 3/3s
+
+We are analyzing a potential struct: 3/3s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 3
+
+Save: 
+
+Current Section: 4/2s
+
+We are analyzing a potential struct: 4/2s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 2
+
+Save: 
+
+Current Section: 5/2s
+
+We are analyzing a potential struct: 5/2s
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 2
+
+Save: 
+
+Current Section: 6/5s
+
+We are analyzing a potential struct: 6/5s
+
+It's a STRUCT.
+
+BeforeSlash: 6
+
+AfterSlash: 5
+
+Save: 
+
+Current Section: 7/4s
+
+We are analyzing a potential struct: 7/4s
+
+It's a STRUCT.
+
+BeforeSlash: 7
+
+AfterSlash: 4
+
+Save: 
+
+Current Section: 8/4s
+
+We are analyzing a potential struct: 8/4s
+
+It's a STRUCT.
+
+BeforeSlash: 8
+
+AfterSlash: 4
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1
+
+We are analyzing a potential struct: 1
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 2/1s
+
+We are analyzing a potential struct: 2/1s
+
+It's a STRUCT.
+
+BeforeSlash: 2
+
+AfterSlash: 1
+
+Save: 
+
+Current Section: 3/1s
+
+We are analyzing a potential struct: 3/1s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 1
+
+Save: 
+
+Current Section: 4/1s
+
+We are analyzing a potential struct: 4/1s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 1
+
+Save: 
+
+Current Section: 5/1s
+
+We are analyzing a potential struct: 5/1s
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 1
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 2
+
+We are analyzing a potential struct: 2
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 3/2s
+
+We are analyzing a potential struct: 3/2s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 2
+
+Save: 
+
+Current Section: 4/2s
+
+We are analyzing a potential struct: 4/2s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 2
+
+Save: 
+
+Current Section: 5/2s
+
+We are analyzing a potential struct: 5/2s
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 2
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 3
+
+We are analyzing a potential struct: 3
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 3/3s
+
+We are analyzing a potential struct: 3/3s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 3
+
+Save: 
+
+Current Section: 4/3s
+
+We are analyzing a potential struct: 4/3s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 3
+
+Save: 
+
+Current Section: 5/9d
+
+We are analyzing a potential struct: 5/9d
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 4
+
+We are analyzing a potential struct: 4
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 5
+
+We are analyzing a potential struct: 5
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 7/6s
+
+We are analyzing a potential struct: 7/6s
+
+It's a STRUCT.
+
+BeforeSlash: 7
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 6
+
+We are analyzing a potential struct: 6
+
+It's a ROW INDICATOR
+
+Current Section: 0/6s
+
+We are analyzing a potential struct: 0/6s
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 1/6s
+
+We are analyzing a potential struct: 1/6s
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 2/6s
+
+We are analyzing a potential struct: 2/6s
+
+It's a STRUCT.
+
+BeforeSlash: 2
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 3/6s
+
+We are analyzing a potential struct: 3/6s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 4/6s
+
+We are analyzing a potential struct: 4/6s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 5/6s
+
+We are analyzing a potential struct: 5/6s
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 6/6s
+
+We are analyzing a potential struct: 6/6s
+
+It's a STRUCT.
+
+BeforeSlash: 6
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 7/7s
+
+We are analyzing a potential struct: 7/7s
+
+It's a STRUCT.
+
+BeforeSlash: 7
+
+AfterSlash: 7
+
+Save: 
+
+Current Section: 8/6s
+
+We are analyzing a potential struct: 8/6s
+
+It's a STRUCT.
+
+BeforeSlash: 8
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 9/6s
+
+We are analyzing a potential struct: 9/6s
+
+It's a STRUCT.
+
+BeforeSlash: 9
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 7
+
+We are analyzing a potential struct: 7
+
+It's a ROW INDICATOR
+
+Current Section: 0/6s
+
+We are analyzing a potential struct: 0/6s
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 1/6s
+
+We are analyzing a potential struct: 1/6s
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 2/6s
+
+We are analyzing a potential struct: 2/6s
+
+It's a STRUCT.
+
+BeforeSlash: 2
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 3/6s
+
+We are analyzing a potential struct: 3/6s
+
+It's a STRUCT.
+
+BeforeSlash: 3
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 4/6s
+
+We are analyzing a potential struct: 4/6s
+
+It's a STRUCT.
+
+BeforeSlash: 4
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 5/6s
+
+We are analyzing a potential struct: 5/6s
+
+It's a STRUCT.
+
+BeforeSlash: 5
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 6/8s
+
+We are analyzing a potential struct: 6/8s
+
+It's a STRUCT.
+
+BeforeSlash: 6
+
+AfterSlash: 8
+
+Save: 
+
+Current Section: 7/7s
+
+We are analyzing a potential struct: 7/7s
+
+It's a STRUCT.
+
+BeforeSlash: 7
+
+AfterSlash: 7
+
+Save: 
+
+Current Section: 8/6s
+
+We are analyzing a potential struct: 8/6s
+
+It's a STRUCT.
+
+BeforeSlash: 8
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 9/6s
+
+We are analyzing a potential struct: 9/6s
+
+It's a STRUCT.
+
+BeforeSlash: 9
+
+AfterSlash: 6
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 8
+
+We are analyzing a potential struct: 8
+
+It's a ROW INDICATOR
+
+Current Section: 0/9d
+
+We are analyzing a potential struct: 0/9d
+
+It's a STRUCT.
+
+BeforeSlash: 0
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 1/9d
+
+We are analyzing a potential struct: 1/9d
+
+It's a STRUCT.
+
+BeforeSlash: 1
+
+AfterSlash: 9
+
+Save: 
+
+Current Section: 10/9d
+
+
+We are analyzing a potential struct: 10/9d
+
+
+It's a STRUCT.
+
+BeforeSlash: 10
+
+AfterSlash: 9
+
+Save: 
