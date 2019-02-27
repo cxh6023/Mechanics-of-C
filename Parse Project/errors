@@ -1,0 +1,15 @@
+==9551== Memcheck, a memory error detector
+==9551== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9551== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==9551== Command: ./rpt people.txt
+==9551== Parent PID: 24215
+==9551== 
+==9551== 
+==9551== HEAP SUMMARY:
+==9551==     in use at exit: 0 bytes in 0 blocks
+==9551==   total heap usage: 1,556 allocs, 1,556 frees, 33,515 bytes allocated
+==9551== 
+==9551== All heap blocks were freed -- no leaks are possible
+==9551== 
+==9551== For counts of detected and suppressed errors, rerun with: -v
+==9551== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

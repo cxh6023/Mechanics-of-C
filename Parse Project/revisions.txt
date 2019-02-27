@@ -1,0 +1,59 @@
+commit ca3752df57c21694b0dfe3186b555f21fcfd54f2
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Wed Oct 3 16:58:49 2018 -0400
+
+    Fixed the pointer to the pointer of the first value not being freed. And
+    did the same thing for the last name value. emp.c:free_emp
+
+commit b4b347a0fafeb55c257bc22f6e78a1e7133e8e25
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Wed Oct 3 16:55:35 2018 -0400
+
+    Added fields 1 and 2 to the parameters of the emp.c addEmployee call.
+
+commit cba7cb7b87dfced68de742fbc7e1580993715ad5
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 2 20:53:36 2018 -0400
+
+    Fixed invalid memory read corruption in function emp.c:delete_all_employees:300
+
+commit 080590f3acacca6a7989bb7adb3336a64a4b3e78
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 2 19:55:19 2018 -0400
+
+    Accidentally edited the parse.c file before adding. It is NOW correct
+    and succesfully fixes the invalid memory write corruption in function
+    parse.c:duplicate:19
+
+commit fea6bdf102baa6c8ce7e28357583c57b9fed39cb
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 2 19:35:32 2018 -0400
+
+    Fixed invalid memory write corruption in function parse.c:duplicate:19
+
+commit 087a6bbd4de09285ef51d98623c794b7c12cf486
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Tue Oct 2 02:02:04 2018 -0400
+
+    Fixed the program pointing to a null pointer using the perror function.
+    On line 16
+
+commit f1ea3a4b2f3799ea80d3de6b046bc5b5c9650dda
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Sat Sep 29 16:37:11 2018 -0400
+
+    Forgot to fix the previous assignment instead of comparison bug before
+    commiting. So this is the new commit for that fix.
+
+commit 2ba10a89c9f2395f5f1d4cd323cc2f0b07400fce
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Sat Sep 29 16:31:15 2018 -0400
+
+    fixed assignment instead of comparison in rpt.c inside the first if
+    statement
+
+commit d0cdb3453e4c52e01ba4725cf5229c6ffb22ff1d
+Author: cxh6023 <cxh6023@rit.edu>
+Date:   Sat Sep 29 16:14:37 2018 -0400
+
+    Initial Baseline: rpt.c is bugged.

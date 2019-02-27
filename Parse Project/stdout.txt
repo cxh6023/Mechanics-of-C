@@ -1,0 +1,303 @@
+Security log analysis
+Total number of employees:  50
+Number of employees with log entries:  200
+
+Report for employee #106548 (Mckenzie, Mable) hired 2011/05/14:
+	2018/09/14 23:26 Entered room 1045
+	2018/09/15 00:22 Exited room 1045
+	2018/09/15 09:45 Entered room 1062
+	2018/09/15 11:37 Exited room 1062
+	2018/09/15 15:02 Entered room 1041
+
+Report for employee #111456 (Chaisupakosol, Alessandra) hired 2005/00/17:
+	2018/09/14 20:38 Entered room 1075
+	2018/09/15 15:42 Exited room 1075
+
+Report for employee #114890 (Yates, Angelica) hired 2016/03/15:
+	2018/09/14 09:15 Entered room 1099
+	2018/09/14 11:56 Exited room 1099
+	2018/09/14 23:08 Entered room 1061
+	2018/09/14 23:48 Exited room 1061
+	2018/09/15 01:41 Entered room 1039
+
+Report for employee #119031 (Arnold, Josephine) hired 1994/06/13:
+	2018/09/14 13:39 Entered room 1070
+	2018/09/14 18:49 Exited room 1070
+	2018/09/15 03:15 Entered room 1096
+	2018/09/15 04:09 Exited room 1096
+	2018/09/15 04:11 Entered room 1055
+
+Report for employee #126222 (Myers, Manuel) hired 1989/08/14:
+	2018/09/15 01:56 Entered room 1057
+	2018/09/15 02:25 Exited room 1057
+	2018/09/15 02:35 Entered room 1038
+	2018/09/15 12:17 Exited room 1038
+
+Report for employee #138573 (Castro, Louis) hired 1994/08/05:
+	2018/09/15 01:40 Entered room 1057
+	2018/09/15 02:34 Exited room 1057
+	2018/09/15 14:29 Entered room 1005
+	2018/09/15 14:39 Exited room 1005
+	2018/09/15 14:49 Entered room 1022
+
+Report for employee #141368 (Burgess, Rolando) hired 1990/03/12:
+	2018/09/14 09:47 Entered room 1072
+	2018/09/14 13:58 Exited room 1072
+	2018/09/15 06:11 Entered room 1016
+
+Report for employee #143278 (Perez, Leon) hired 1988/02/03:
+	2018/09/14 10:38 Entered room 1033
+	2018/09/15 12:34 Exited room 1033
+	2018/09/15 13:40 Entered room 1006
+
+Report for employee #144977 (Townsend, Sadie) hired 1991/06/17:
+	2018/09/14 12:41 Entered room 1057
+	2018/09/14 15:59 Exited room 1057
+	2018/09/15 00:06 Entered room 1084
+	2018/09/15 11:21 Exited room 1084
+
+Report for employee #149470 (Park, Misty) hired 2015/06/23:
+	2018/09/14 14:37 ***bad security code***
+	2018/09/14 16:19 ***bad security code***
+	2018/09/14 23:36 Entered room 1012
+	2018/09/15 04:42 Exited room 1012
+	2018/09/15 05:28 Entered room 1068
+
+Report for employee #174180 (Pope, Pierre-Andre) hired 1987/08/26:
+	2018/09/14 09:35 Entered room 1013
+	2018/09/14 14:27 Exited room 1013
+	2018/09/14 22:53 Entered room 1058
+	2018/09/15 11:15 Exited room 1058
+
+Report for employee #205302 (Fowler-Hornbuckle, Glenda) hired 1988/02/13:
+	2018/09/14 13:17 Entered room 1024
+	2018/09/15 03:03 Exited room 1024
+	2018/09/15 10:53 Entered room 1000
+	2018/09/15 15:38 Exited room 1000
+
+Report for employee #205670 (Sparks, Leigh) hired 1982/01/28:
+	2018/09/14 13:20 Entered room 1028
+	2018/09/15 03:03 Exited room 1028
+	2018/09/15 10:05 Entered room 1026
+	2018/09/15 10:41 Exited room 1026
+	2018/09/15 11:51 Entered room 1064
+
+Report for employee #213052 (Stevenson, Allan) hired 1998/07/20:
+	2018/09/14 14:05 Entered room 1069
+	2018/09/15 01:18 Exited room 1069
+	2018/09/15 02:36 Entered room 1009
+	2018/09/15 07:22 Exited room 1009
+	2018/09/15 12:30 Entered room 1060
+
+Report for employee #218132 (West, Christy) hired 2015/02/23:
+	2018/09/15 02:46 Entered room 1007
+	2018/09/15 04:11 Exited room 1007
+	2018/09/15 16:18 Entered room 1026
+
+Report for employee #220254 (Shelton, Evangeline) hired 2012/01/02:
+	2018/09/14 09:25 Entered room 1058
+	2018/09/14 18:45 Exited room 1058
+	2018/09/15 05:37 Entered room 1064
+
+Report for employee #220494 (Barnes, Claudia) hired 2009/01/08:
+	2018/09/14 14:55 Entered room 1012
+	2018/09/14 16:16 Exited room 1012
+
+Report for employee #229143 (Tate, Maria) hired 2000/07/25:
+	2018/09/14 10:52 Entered room 1058
+	2018/09/14 12:03 Exited room 1058
+	2018/09/14 14:56 Entered room 1058
+	2018/09/14 21:03 Exited room 1058
+	2018/09/14 21:29 Entered room 1098
+	2018/09/14 22:35 Exited room 1098
+	2018/09/15 04:23 Entered room 1074
+	2018/09/15 08:21 Exited room 1074
+	2018/09/15 11:07 Entered room 1091
+	2018/09/15 13:34 Exited room 1091
+	2018/09/15 13:59 Entered room 1056
+
+Report for employee #249567 (Figueroa, Edna) hired 2015/02/02:
+	2018/09/14 10:15 Entered room 1066
+	2018/09/14 11:16 Exited room 1066
+	2018/09/14 17:07 Entered room 1024
+
+Report for employee #263502 (Champion-Demers, Tara) hired 2007/01/08:
+	2018/09/14 17:29 Entered room 1031
+	2018/09/14 17:46 Exited room 1031
+	2018/09/15 00:36 Entered room 1052
+	2018/09/15 00:47 Exited room 1052
+	2018/09/15 16:24 Entered room 1049
+
+Report for employee #265265 (Wright, Brad) hired 2009/01/11:
+	2018/09/14 12:19 Entered room 1076
+	2018/09/14 20:03 Exited room 1076
+	2018/09/15 00:47 Entered room 1057
+	2018/09/15 05:45 Exited room 1057
+	2018/09/15 08:51 Entered room 1015
+	2018/09/15 13:27 Exited room 1015
+
+Report for employee #283300 (Adams, Luke) hired 1994/01/25:
+	2018/09/14 08:27 Entered room 1009
+	2018/09/15 10:34 Exited room 1009
+	2018/09/15 16:18 Entered room 1076
+
+Report for employee #283452 (Maxwell, Dewey) hired 1998/02/28:
+	2018/09/14 08:59 Entered room 1086
+	2018/09/14 15:08 Exited room 1086
+	2018/09/14 17:23 Entered room 1023
+
+Report for employee #302831 (Hale, Craig) hired 1999/05/16:
+	2018/09/14 08:00 Entered room 1092
+	2018/09/14 20:32 Exited room 1092
+	2018/09/14 22:32 Entered room 1026
+	2018/09/15 05:56 Exited room 1026
+	2018/09/15 07:57 Entered room 1088
+	2018/09/15 09:35 ***bad security code***
+
+Report for employee #306342 (Brewer, Caledonia) hired 2010/06/07:
+	2018/09/14 08:16 Entered room 1062
+	2018/09/15 04:53 Exited room 1062
+	2018/09/15 12:53 Entered room 1074
+
+Report for employee #315852 (Vanderheyden, Julius) hired 1989/02/19:
+	2018/09/14 14:38 Entered room 1078
+	2018/09/15 01:00 Exited room 1078
+	2018/09/15 11:41 Entered room 1072
+	2018/09/15 12:09 Exited room 1072
+
+Report for employee #324523 (Williams, Bethany) hired 1983/08/05:
+	2018/09/14 19:24 Entered room 1070
+	2018/09/14 22:29 Exited room 1070
+	2018/09/15 00:19 Entered room 1048
+	2018/09/15 01:01 Exited room 1048
+	2018/09/15 06:17 Entered room 1074
+	2018/09/15 10:26 Exited room 1074
+
+Report for employee #339846 (Jimenez, Christian) hired 1981/09/23:
+	2018/09/15 01:21 Entered room 1050
+	2018/09/15 03:37 Exited room 1050
+	2018/09/15 07:38 Entered room 1080
+
+Report for employee #356556 (DeFrancesco, Kerry) hired 1990/03/04:
+	2018/09/14 20:56 Entered room 1086
+	2018/09/15 03:56 Exited room 1086
+	2018/09/15 09:17 Entered room 1040
+
+Report for employee #356967 (Estrada, Omar) hired 2001/05/29:
+	2018/09/14 18:37 Entered room 1066
+	2018/09/15 09:30 Exited room 1066
+
+Report for employee #360618 (Mendoza, Glen) hired 2000/00/23:
+	2018/09/14 10:00 Entered room 1003
+	2018/09/14 18:09 Exited room 1003
+	2018/09/15 08:19 Entered room 1027
+
+Report for employee #376051 (Elliott, Jeannie) hired 1982/02/10:
+	2018/09/14 14:15 Entered room 1021
+
+Report for employee #408615 (Farmer, Fred) hired 2009/04/19:
+	2018/09/14 11:43 Entered room 1051
+	2018/09/15 04:59 Exited room 1051
+	2018/09/15 06:34 Entered room 1001
+
+Report for employee #415499 (Kelly, Karen) hired 2011/01/21:
+	2018/09/14 08:42 Entered room 1076
+	2018/09/14 20:22 Exited room 1076
+	2018/09/15 02:24 Entered room 1076
+	2018/09/15 03:19 ***bad security code***
+
+Report for employee #427943 (Padilla, Kevin) hired 2016/01/12:
+	2018/09/14 15:40 Entered room 1010
+	2018/09/14 18:15 Exited room 1010
+	2018/09/14 19:37 Entered room 1097
+	2018/09/15 03:53 Exited room 1097
+	2018/09/15 08:17 Entered room 1013
+	2018/09/15 10:07 Exited room 1013
+
+Report for employee #428182 (Fenstermacher, Timothy) hired 2014/06/24:
+	2018/09/14 08:01 Entered room 1064
+	2018/09/15 10:02 Exited room 1064
+	2018/09/15 12:34 Entered room 1051
+
+Report for employee #436913 (Clark, Gregory) hired 1982/07/02:
+	2018/09/14 15:48 Entered room 1065
+	2018/09/14 16:27 Exited room 1065
+	2018/09/14 17:55 Entered room 1026
+	2018/09/15 02:08 ***bad security code***
+	2018/09/15 03:13 ***bad security code***
+	2018/09/15 15:19 Exited room 1026
+
+Report for employee #440145 (Cannon, Rogelio) hired 2017/02/16:
+	2018/09/14 11:07 Entered room 1013
+	2018/09/14 19:47 Exited room 1013
+	2018/09/14 21:13 Entered room 1049
+	2018/09/15 14:13 Exited room 1049
+
+Report for employee #454392 (Owen, Jon) hired 1995/06/15:
+	2018/09/14 08:05 Entered room 1066
+	2018/09/14 08:10 Exited room 1066
+	2018/09/14 09:58 Entered room 1038
+	2018/09/14 19:08 Exited room 1038
+	2018/09/15 02:27 ***bad security code***
+	2018/09/15 06:10 Entered room 1090
+	2018/09/15 13:17 Exited room 1090
+
+Report for employee #455885 (D'Ippolito, Mona) hired 1988/08/10:
+	2018/09/14 18:20 Entered room 1074
+
+Report for employee #456628 (Ravindranath, Venkatakrishna) hired 2015/05/04:
+	2018/09/14 12:59 Entered room 1029
+	2018/09/14 13:08 Exited room 1029
+	2018/09/15 01:51 Entered room 1015
+	2018/09/15 06:47 Exited room 1015
+	2018/09/15 07:05 Entered room 1074
+
+Report for employee #457547 (Castro-Herrera, Ella) hired 2011/02/24:
+	2018/09/14 12:32 Entered room 1096
+	2018/09/14 21:53 Exited room 1096
+	2018/09/15 08:16 Entered room 1086
+
+Report for employee #460070 (Powell, Colleen) hired 1989/05/13:
+	2018/09/14 22:12 Entered room 1032
+	2018/09/15 03:22 Exited room 1032
+
+Report for employee #465064 (Simpson, Linda) hired 1983/00/13:
+	2018/09/14 12:06 Entered room 1012
+	2018/09/14 15:26 Exited room 1012
+	2018/09/15 08:32 Entered room 1085
+
+Report for employee #465402 (Shellenberger, Kristin) hired 2009/01/16:
+	2018/09/14 10:17 Entered room 1006
+	2018/09/14 16:22 Exited room 1006
+	2018/09/14 18:15 Entered room 1089
+	2018/09/15 03:36 Exited room 1089
+
+Report for employee #472109 (Chesterfield, Clayton) hired 2013/02/11:
+	2018/09/14 09:47 Entered room 1067
+	2018/09/14 10:33 Exited room 1067
+	2018/09/15 00:19 Entered room 1042
+
+Report for employee #478685 (Carlson, Russell) hired 1984/04/27:
+	2018/09/14 16:39 Entered room 1047
+	2018/09/14 20:40 Exited room 1047
+	2018/09/15 00:46 Entered room 1092
+	2018/09/15 05:12 Exited room 1092
+	2018/09/15 15:28 Entered room 1077
+
+Report for employee #479717 (Constantinides, Bartholomew) hired 2017/01/03:
+	2018/09/14 16:58 Entered room 1078
+	2018/09/14 21:48 ***bad security code***
+	2018/09/15 02:41 Exited room 1078
+	2018/09/15 04:19 Entered room 1079
+
+Report for employee #490519 (Baggerman-Webster, Henrietta) hired 1986/04/07:
+	2018/09/14 13:12 Entered room 1039
+	2018/09/15 12:44 Exited room 1039
+	2018/09/15 16:00 Entered room 1022
+
+Report for employee #495636 (Baskerville, Montgomery) hired 1992/03/26:
+	2018/09/14 11:29 Entered room 1031
+	2018/09/14 22:54 Exited room 1031
+	2018/09/14 23:12 Entered room 1001
+	2018/09/15 09:08 Exited room 1001
+	2018/09/15 12:58 Entered room 1029
